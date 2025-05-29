@@ -1,0 +1,3 @@
+Upon picking up The Lovers page, [[Fana]] finds that her book emanates magical energy once again towards the Hive Ward. Specifically it points directly to [[The Smoldering Corpse Bar]]. 
+
+Inside, the party is lead towards [[Ignus]], the titular smoldering corpse. [[Ignus]], being a physical portal directly to the [[Elemental Plane of Fire]], hints that the next page is in the [[City of Brass]]. It is up to [[Fana]] to find a way to reach the City from one of the many portals in [[Sigil]]. 

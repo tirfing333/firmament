@@ -1,0 +1,1 @@
+A magical crystalline stone that was created during the Sundering when arcane energies and molten heat split the world. Aetherstone is present on nearly all of the major skylands and is a valuable resource, used as fuel to provide energy to civilizations, and as fuel for the sky ships used to connect the various floating nations of [[Firmament]].

@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"9e1b5d95d2cba354","type":"file","file":"Campaigns/Firmament Campaign Setting/Skylands of Firmament/Aurion Concord/Cael Aurion.md","x":-980,"y":320,"width":1660,"height":440,"color":"3"},
+		{"id":"a058032043e9d8ec","type":"file","file":"Campaigns/Firmament Campaign Setting/Skylands of Firmament/Aurion Concord/Wards of Cael Aurion/Inner Ward.md","x":-554,"y":840,"width":383,"height":260,"color":"3"},
+		{"id":"296348b876762ef8","type":"file","file":"Campaigns/Firmament Campaign Setting/Skylands of Firmament/Aurion Concord/Wards of Cael Aurion/Outer Ward.md","x":-128,"y":840,"width":383,"height":260,"color":"3"},
+		{"id":"4415bba6bf7cc5fc","type":"file","file":"Campaigns/Firmament Campaign Setting/Skylands of Firmament/Aurion Concord/Wards of Cael Aurion/Scholar's Ward.md","x":297,"y":840,"width":383,"height":260,"color":"3"},
+		{"id":"6616c663ee8aaba1","type":"file","file":"Campaigns/Firmament Campaign Setting/Skylands of Firmament/Aurion Concord/Wards of Cael Aurion/Aurion Skyport.md","x":-980,"y":840,"width":383,"height":260,"color":"3"},
+		{"id":"0a714efd5db8d4ab","type":"file","file":"Campaigns/Firmament Campaign Setting/Skylands of Firmament/Umbrahal/Umbrahal.md","x":-980,"y":1220,"width":1200,"height":560,"color":"#1a1d5b"},
+		{"id":"64899557989825a9","type":"file","file":"Campaigns/Firmament Campaign Setting/Skylands of Firmament/Umbrahal/Umbrahal Alliance.md","x":272,"y":1220,"width":408,"height":560,"color":"#1a1d5b"},
+		{"id":"5bc10ad0065b0d2b","type":"file","file":"Campaigns/Firmament Campaign Setting/Skylands of Firmament/The Frozen Veil/Frozen Veil.md","x":-980,"y":1920,"width":1200,"height":574,"color":"#9ea1f0"},
+		{"id":"224e23afc710e845","type":"file","file":"Campaigns/Firmament Campaign Setting/Skylands of Firmament/The Frozen Veil/Nuvatok.md","x":272,"y":1920,"width":425,"height":574,"color":"#9ea1f0"},
+		{"id":"f0629539da560628","type":"file","file":"Campaigns/Firmament Campaign Setting/Skylands of Firmament/The Frozen Veil/Frostveil Clan.md","x":-980,"y":2540,"width":400,"height":400,"color":"#9ea1f0"},
+		{"id":"213f90b8570c388a","type":"file","file":"Campaigns/Firmament Campaign Setting/Skylands of Firmament/The Frozen Veil/Coldbreaker Clan.md","x":-550,"y":2540,"width":400,"height":400,"color":"#9ea1f0"},
+		{"id":"4b3d7cbff5d92e7c","type":"file","file":"Campaigns/Firmament Campaign Setting/Skylands of Firmament/The Frozen Veil/Bearclaw Clan.md","x":-128,"y":2540,"width":348,"height":400,"color":"#9ea1f0"},
+		{"id":"de2f46358d3b0f19","type":"file","file":"Campaigns/Firmament Campaign Setting/Skylands of Firmament/The Frozen Veil/Snowfang Clan.md","x":272,"y":2540,"width":425,"height":400,"color":"#9ea1f0"},
+		{"id":"c15851d409160502","type":"file","file":"Campaigns/Firmament Campaign Setting/Firmament.md","x":-980,"y":3040,"width":1133,"height":968,"color":"6"},
+		{"id":"00e1d46facf88a0f","type":"file","file":"Campaigns/Firmament Campaign Setting/World Elements/The Gods of Firmament.md","x":267,"y":3040,"width":430,"height":980,"color":"6"},
+		{"id":"28cb2b4dfdbd6ef5","type":"file","file":"DM Resources/Roll Tables/Name Tables.md","x":-980,"y":-2640,"width":334,"height":820,"color":"1"},
+		{"id":"81baf6d9b7f42388","type":"file","file":"DM Resources/Generic Enemy Statblocks.md","x":-628,"y":-2640,"width":848,"height":820,"color":"1"},
+		{"id":"7917acdd62d1cf10","type":"file","file":"DM Resources/Roll Tables/NPC Traits and Quirks Roll Table.md","x":240,"y":-2640,"width":420,"height":820,"color":"1"},
+		{"id":"388cd1f4b3224108","type":"file","file":"Campaigns/Firmament Campaign Setting/Ship Rules.md","x":-980,"y":-1740,"width":480,"height":880},
+		{"id":"0854b3f8d87f4424","type":"file","file":"DM Resources/Shop Catalog.md","x":-980,"y":-800,"width":1677,"height":960},
+		{"id":"4d0932df24f1dc3f","type":"file","file":"DM Resources/Roll Tables/d100 Loot Table.md","x":-456,"y":-1740,"width":504,"height":880},
+		{"id":"bc267428cbd98b7d","type":"file","file":"DM Resources/Roll Tables/Ship Encounter Roll Table.md","x":80,"y":-1740,"width":600,"height":880}
+	],
+	"edges":[]
+}

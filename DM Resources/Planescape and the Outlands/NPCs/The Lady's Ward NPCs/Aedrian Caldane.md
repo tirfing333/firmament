@@ -1,0 +1,1 @@
+A high ranking [[Guvner]] Lieutenant. She oversees law enforcement in [[The Lady's Ward]] and has recently come into possession of a mysterious scroll. 

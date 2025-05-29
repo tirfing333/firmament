@@ -1,0 +1,1 @@
+Owner of the Greasy Gear. His shop is upbeat (LOZ Shop theme). Burt is an excitable rock gnome. He loves talking ships, mods for ships, and tools. He often will speak to his customers while frantically tinkering with something he is working on, rarely looking up from his work unless something truly piques his interest.

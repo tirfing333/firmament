@@ -1,0 +1,1 @@
+The deceased Queen of the Moon Elves. Slain in the Heartfire Crusades in the battle of the spire. She was a powerful sorceress, and a dear friend to Marc.

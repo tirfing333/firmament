@@ -1,0 +1,1 @@
+The true name of the Builder Society. These are the remnants of the civilization that once inhabited Baldur's Gate. 

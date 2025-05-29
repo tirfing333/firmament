@@ -1,0 +1,1 @@
+A bustling city built in the canopy of gargantuan trees in east Verdin. Home to the [[Canopy Lyceum]], a university dedicated to the study of nature, art, and the natural world.

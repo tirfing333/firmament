@@ -1,0 +1,3 @@
+The Cinderspring was an arcane calamity committed by the rebel [[Eshra]]. Using an arcane artifact of great power, she summoned a great firestorm at the heart of [[Cael Aurion]], destroying the Royal Palace, and much of the old city.
+
+Widely considered to be one of the most heinous acts due to the number of innocent casualties who were caught in the crossfire. Despite this, many side with [[Eshra]] to this day, and say that the lives lost were a small price to pay to free the people from their shackles.

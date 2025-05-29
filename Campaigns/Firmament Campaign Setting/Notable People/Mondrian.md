@@ -1,0 +1,3 @@
+The warforged sorcerer, model M0NDR14n, is a pristine artifact of pre-sundering civilization. Theorized to belong to be Builder technology, the artifact was in transit towards Cael Aurion, with a final destination of the Magitek Academy located in the [[Scholar's Ward]]. However, in transit, the merchant vessel, the Gilded Gale, was boarded by Paladins from the Order of the Devouring Sun. 
+
+Mondrian, a relic from the age of the builders, allows one to access builder ruins.

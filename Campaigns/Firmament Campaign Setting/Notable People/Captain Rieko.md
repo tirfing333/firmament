@@ -1,0 +1,1 @@
+The leader of the Blue Rogues. A tiefling with light blue skin. She is loud, rambunctious, and full of energy and good cheer. She inspires her crew with her positive and loving attitude. Her crew is loyal and serve not for the loot, but because they believe in their captain. She pilots the Arcadia, and is a master skyship skirmisher. 

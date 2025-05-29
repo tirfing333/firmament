@@ -1,0 +1,4 @@
+- A crooked-backed, wrinkled crone with beady eyes that seem to peer through souls.
+- Speaks in measured, hushed tones, as if revealing forbidden knowledge with every word.
+- Doesn’t deal in coin, only in secrets, favors, and hidden truths.
+- She rarely smiles, and when she does, it is knowing, unsettling, or oddly maternal.

@@ -1,0 +1,1 @@
+The Goblin Clans are a race of hunters who honor the hunt. A nation that glorifies war and killing prowess above all else. When goblins, bugbears, hobgoblins, and the like come of age, they must complete a hunt to become anointed as one of their clan. They make their homes among the twisting root caverns on the floor of the jungle skyland.

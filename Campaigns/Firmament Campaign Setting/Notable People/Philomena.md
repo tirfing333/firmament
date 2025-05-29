@@ -1,0 +1,1 @@
+Once a student at the Canopy Lyceum, a series of questionable decisions led Philomena to falling in with the Crimson Wing pirates, an unruly group operating under Captain Lizra Robin. Philomena decided to go their own way, and eventually made it onto the deck of the Gilded Gale, en route to Cael Aurion to start anew.
