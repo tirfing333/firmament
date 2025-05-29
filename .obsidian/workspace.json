@@ -260,7 +260,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253
+    "width": 595
   },
   "right": {
     "id": "f0e42d2df22a7e64",
@@ -429,10 +429,11 @@
   },
   "active": "6c0123d6ec8aa536",
   "lastOpenFiles": [
+    "DM Resources/z Images/Pasted image 20250402104646 - Copy.png",
+    "Homebrew Items/Captain Rieko's Journal 1.md",
     "index.md",
     "package-lock.json",
     "Homebrew Items/Captain Rieko's Journal.md",
-    "Homebrew Items/Captain Rieko's Journal 1.md",
     "Campaigns/Firmament Campaign Setting/Ship Rules.md",
     "Campaigns/Firmament Campaign Setting/Skylands of Firmament/Umbrahal/Umbrahal Alliance.md",
     "Campaigns/Firmament Campaign Setting/Skylands of Firmament/Umbrahal/Umbrahal.md",
@@ -456,7 +457,6 @@
     "Campaigns/Firmament Campaign Setting/Firmament.md",
     "Campaigns/Firmament Campaign Setting/Session 0.md",
     "Campaigns/Firmament Campaign Setting/Firmament Player's Guide.md",
-    "Campaigns/Firmament Campaign Setting/Skylands of Firmament/Aurion Concord/Cael Aurion.md",
     "Campaigns",
     "Homebrew Items",
     "Session 2 Resources",
