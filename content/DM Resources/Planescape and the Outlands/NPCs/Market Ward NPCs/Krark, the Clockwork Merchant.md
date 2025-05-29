@@ -1,0 +1,4 @@
+- A stoic, mechanical-faced modron exile, slightly off from the usual order.
+- Rarely speaks unless spoken to, but when he does, his voice is smooth, calculated, and unsettlingly precise.
+- Doesn’t comprehend jokes and stares too long.
+- Occasionally adjusts himself with a tiny screwdriver mid-conversation.

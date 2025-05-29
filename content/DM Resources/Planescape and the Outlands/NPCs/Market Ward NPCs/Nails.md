@@ -1,0 +1,4 @@
+- Slick, charismatic, always smirking.
+- Treats every customer as if they’re his closest friend—until they aren’t.
+- Flicks a coin between his fingers constantly.
+- Always has an escape plan, eyes darting for guards or trouble.

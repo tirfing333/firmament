@@ -1,0 +1,1 @@
+An ever-changing black market held nightly under ragged tents and dimly lit lanterns. Merchants sell exotic goods, illicit substances, and rare items pilfered from across the planes.

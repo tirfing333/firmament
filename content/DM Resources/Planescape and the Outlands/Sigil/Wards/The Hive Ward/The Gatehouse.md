@@ -1,0 +1,1 @@
+A grim asylum and poorhouse, run by the Bleak Cabal, where [[Sigil]]’s lost and desperate souls come for shelter or treatment. Rumored to hold hidden chambers and secret passageways beneath.

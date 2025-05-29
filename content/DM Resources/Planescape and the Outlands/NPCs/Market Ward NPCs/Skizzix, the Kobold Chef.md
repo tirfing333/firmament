@@ -1,0 +1,4 @@
+- Fast-talking, overly excited, with a high-pitched voice.
+- Treats cooking like a high-stakes battle, flipping food into the air dramatically.
+- Exaggerates his ingredients (“Only the finest abyssal peppers! Not cursed—I think!”).
+- Sometimes sells ‘special’ food to adventurers that may or may not have magical effects.

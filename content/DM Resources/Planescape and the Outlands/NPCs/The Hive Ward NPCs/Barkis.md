@@ -1,0 +1,1 @@
+Barkeep of [[The Smoldering Corpse Bar]].

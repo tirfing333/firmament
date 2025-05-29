@@ -1,0 +1,1 @@
+The premier university and research center for the life sciences and study of druidic magic. The lyceum also is famous for its dedication to the arts, with programs in the visual, performing, and musical arts.

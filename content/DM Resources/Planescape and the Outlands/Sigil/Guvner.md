@@ -1,0 +1,1 @@
+A nickname for the Sigil Faction, The Fraternity of Order. Believes that the rule of law is what brings order to the multiverse.

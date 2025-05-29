@@ -1,0 +1,5 @@
+The Cloakwood Forest—also known as The Cloakwood or simply Cloak Wood—is a dense and ancient woodland nestled along the Sword Coast of Faerûn. It lies due south of Baldur’s Gate, and just northeast of Candlekeep, acting as a natural barrier between the two famous sites. Though not especially vast, the forest is thick with undergrowth, towering evergreens, and gnarled oaks, making travel through its interior slow and treacherous.
+
+The Cloakwood has long held a dark reputation, known for its untamed wilds, lurking monsters, and scattered druidic circles. Travelers speak of giant spiders, aggressive ettercaps, and even wyverns said to nest deep within. It is a place best avoided by the unprepared, though it once drew the attention of powerful factions, including the now-defunct Iron Throne, who attempted to exploit its resources in secret.
+
+Despite its dangers, the Cloakwood holds a primeval beauty, with shrouded glades, ancient ruins, and deep druidic mysteries said to stretch back to times before Baldur’s Gate was even founded. Whispers tell of ancient groves touched by primal magic, and of those who vanish within, never to return—or return changed.

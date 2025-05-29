@@ -1,0 +1,1 @@
+The elusive drow crimelord of the Hive. She asked Fana to take out Vharrik, the Silver. After Fana succeeded, she thanked Fana for her contribution and told her that she was welcome in the Hive for her service.
