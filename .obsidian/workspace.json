@@ -427,8 +427,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "dc2faadc4c3b4fd3",
+  "active": "6c0123d6ec8aa536",
   "lastOpenFiles": [
+    "index.md",
+    "package-lock.json",
     "Homebrew Items/Captain Rieko's Journal.md",
     "Homebrew Items/Captain Rieko's Journal 1.md",
     "Campaigns/Firmament Campaign Setting/Ship Rules.md",
@@ -455,7 +457,6 @@
     "Campaigns/Firmament Campaign Setting/Session 0.md",
     "Campaigns/Firmament Campaign Setting/Firmament Player's Guide.md",
     "Campaigns/Firmament Campaign Setting/Skylands of Firmament/Aurion Concord/Cael Aurion.md",
-    "Campaigns/Firmament Campaign Setting/Skylands of Firmament/Aurion Concord/Wards of Cael Aurion/Scholar's Ward.md",
     "Campaigns",
     "Homebrew Items",
     "Session 2 Resources",
@@ -473,7 +474,6 @@
     "DM Resources/z Images/Pasted image 20250403030848.png",
     "DM Resources/z Images/Pasted image 20250403031756.png",
     "DM Resources/z Images/Pasted image 20250403030032.png",
-    "Campaigns/Firmament Campaign Setting/Skylands of Firmament/Verdin",
     "DM Resources/z Images/Pasted image 20250402160159.png",
     "DM Resources/z Images/Pasted image 20250402135102.png"
   ]
